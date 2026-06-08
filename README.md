@@ -1,3 +1,3 @@
 # Logout
 Logout file
-logout scenarios
+logout and login
